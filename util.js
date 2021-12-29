@@ -4,6 +4,7 @@
 * @copyright warlee 2014.(Shanghai)Co.,Ltd
 * @license http://kodcloud.com/tools/license/license.txt
 */
+
 //return 时间戳到秒
 var time = function(){
 	var time = (new Date()).valueOf();
